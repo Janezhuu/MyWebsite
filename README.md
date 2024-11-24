@@ -1,4 +1,4 @@
-# Hello! Welcome to the world of Jane Zhu
+# Jane Zhu
 
 
 
