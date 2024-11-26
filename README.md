@@ -3,6 +3,8 @@
 
 
 ### Education
+**Bachelor of Science**, Major in Statistics, Minor in Computer Science  
+Simon Fraser University
 
 ### My Projects
 
