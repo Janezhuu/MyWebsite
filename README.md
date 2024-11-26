@@ -3,9 +3,10 @@
 
 
 ### Education
-**Bachelor of Science**, Major in Statistics, Minor in Computer Science  
-9/2018 - 09/2022
-Simon Fraser University
+**Bachelor of Science**  
+*Major in Statistics, Minor in Computer Science*  
+**Simon Fraser University**  
+*September 2018 – September 2022*
 
 ### My Projects
 
