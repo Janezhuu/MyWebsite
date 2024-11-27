@@ -15,10 +15,21 @@
 *BC Public Service | Ministry of Transportation and Transit*  
 *June 2023 – Present*
 
-- Delivered **Power BI** reports by translating business requirements into effective reporting and analytics solutions. Extracted, reviewed, and analyzed ad-hoc data to generate reports handling over 99 billion data points for staff and stakeholders. Managed dashboard refreshes, supporting informed decision-making.
-- Supported the Commercial Vehicle and System Enforcement project by investigating system errors. Collaborated with branch staff to assess the data impacts of system changes and conducted ongoing analysis of data integrity issues across multiple databases. Developed and implemented scripts for bulk data cleaning and data mining.
-- Monitored analytical database performance and built data pipelines using **Python** and **SSIS**, integrating multiple data sources into the analytical database to provide enhanced analytics for reporting and data analysis solutions.
-- Trained business area data specialists on using queries and the fundamentals of report building to empower them to meet their own business needs.
-- Managed workflows and documented changes in reporting requirements and system updates using **Confluence** and **Jira**, facilitating seamless team collaboration and efficient project execution through **OneDrive** and **SharePoint**.
+- **Power BI Dashboards**  
+  Delivered interactive **Power BI** dashboards by leveraging **SQL** and BI tools to transform business requirements into actionable insights. Processed 99+ billion data points to support cost estimates and justify continued funding for the system program. Managed dashboard refreshes to enable data-driven decision-making.
+
+- **System Support & Data Integrity**  
+  Supported the **Commercial Vehicle and System Enforcement** project by investigating system errors (e.g., missing vehicle numbers) and collaborating with staff to assess data impacts. Developed scripts for bulk data cleaning, ensuring data integrity across multiple databases.
+
+- **Data Pipelines & Integration**  
+  Built efficient data pipelines using **Python** and **SSIS**, integrating diverse data sources to enhance analytics and improve reporting accuracy.
+
+- **Business Data Training**  
+  Trained business data specialists on **query writing** and **report building**, empowering them to independently meet business needs.
+
+- **Project Management & Collaboration**  
+  Managed reporting workflows and system updates using **Confluence**, **Jira**, **OneDrive**, and **SharePoint**, streamlining team collaboration and project execution.
+
+
 
 
