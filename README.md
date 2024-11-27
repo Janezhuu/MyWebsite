@@ -10,6 +10,15 @@
 
 ### My Projects
 
+#### Work Project: Weather and Avalanche System (SAWSx)  
+**Tools Used**: SSMS, SSIS, Power BI, Oracle, SSRS, GitHub, Jira, Confluence  
+**Duration**: 02/2024 - Present  
+- Migrated data from OLTP to OLAP systems, designing optimized ETL pipelines to integrate data from multiple sources. This transition improved data aggregation and querying speed, providing a solid foundation for advanced statistical analysis and reporting, enhancing the accuracy and efficiency of business insights.
+- Utilized **SSRS** and advanced **SQL** to generate weather reports by synthesizing over 150 million data records, delivering insights into weather trends such as winter temperatures, precipitation, and snowfall patterns.
+- Documented changes in reporting requirements and ETL processes to ensure alignment with business and technical needs. Managed workflows with **Jira** and **Confluence**, ensuring team collaboration within the Agile framework.
+
+
+
 ### Work Experience
 **Data Reporting Analyst**  
 *BC Public Service | Ministry of Transportation and Transit*  
